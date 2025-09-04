@@ -6,4 +6,4 @@
 
 ## Ссылки
 
-- [Публичная страница на GitHub Pages](https://EgorBelovA.github.io/myawesome-project/)
+- [Публичная страница на GitHub Pages](https://egorbelova.github.io/my-awesome-project/)
